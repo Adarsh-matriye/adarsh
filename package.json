@@ -1,10 +1,10 @@
 {
-  "name": "sandbox",
+  "name": "adarsh",
   "version": "1.2.0",
-  "description": "Sandbox - Modern & Multipurpose Tailwind CSS Template",
-  "main": "index.js",
+  "description": "Adarsh Singh",
+  "main": "index.html",
   "scripts": {
-    "build": "npx tailwindcss -i ./src/input.css -o ./dist/style.css --watch"
+    "build": "npx tailwindcss -i ./src/input.css -o ./style.css --watch"
   },
   "keywords": [],
   "author": "ibtheme",
