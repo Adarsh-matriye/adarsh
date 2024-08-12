@@ -2,7 +2,7 @@
   "name": "adarsh",
   "version": "1.2.0",
   "description": "Adarsh Singh",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "build": "npx tailwindcss -i ./src/input.css -o ./style.css --watch"
   },
